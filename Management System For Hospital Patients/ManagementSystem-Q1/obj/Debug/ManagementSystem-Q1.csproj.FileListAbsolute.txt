@@ -1,0 +1,20 @@
+C:\Users\katle\OneDrive\Desktop\ITPCA\ManagementSystem-Q1\ManagementSystem-Q1\bin\Debug\ManagementSystem-Q1.exe.config
+C:\Users\katle\OneDrive\Desktop\ITPCA\ManagementSystem-Q1\ManagementSystem-Q1\bin\Debug\ManagementSystem-Q1.exe
+C:\Users\katle\OneDrive\Desktop\ITPCA\ManagementSystem-Q1\ManagementSystem-Q1\bin\Debug\ManagementSystem-Q1.pdb
+C:\Users\katle\OneDrive\Desktop\ITPCA\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem-Q1.csproj.AssemblyReference.cache
+C:\Users\katle\OneDrive\Desktop\ITPCA\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem_Q1.Form1.resources
+C:\Users\katle\OneDrive\Desktop\ITPCA\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem_Q1.Properties.Resources.resources
+C:\Users\katle\OneDrive\Desktop\ITPCA\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem-Q1.csproj.GenerateResource.cache
+C:\Users\katle\OneDrive\Desktop\ITPCA\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem-Q1.csproj.CoreCompileInputs.cache
+C:\Users\katle\OneDrive\Desktop\ITPCA\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem-Q1.exe
+C:\Users\katle\OneDrive\Desktop\ITPCA\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem-Q1.pdb
+C:\Users\katle\OneDrive\Desktop\ITPCA\ITPCA2-B12-PROJECT-MIDRAND CAMPUS-EDUV4814512\ManagementSystem-Q1\ManagementSystem-Q1\bin\Debug\ManagementSystem-Q1.exe.config
+C:\Users\katle\OneDrive\Desktop\ITPCA\ITPCA2-B12-PROJECT-MIDRAND CAMPUS-EDUV4814512\ManagementSystem-Q1\ManagementSystem-Q1\bin\Debug\ManagementSystem-Q1.exe
+C:\Users\katle\OneDrive\Desktop\ITPCA\ITPCA2-B12-PROJECT-MIDRAND CAMPUS-EDUV4814512\ManagementSystem-Q1\ManagementSystem-Q1\bin\Debug\ManagementSystem-Q1.pdb
+C:\Users\katle\OneDrive\Desktop\ITPCA\ITPCA2-B12-PROJECT-MIDRAND CAMPUS-EDUV4814512\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem-Q1.csproj.AssemblyReference.cache
+C:\Users\katle\OneDrive\Desktop\ITPCA\ITPCA2-B12-PROJECT-MIDRAND CAMPUS-EDUV4814512\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem_Q1.Form1.resources
+C:\Users\katle\OneDrive\Desktop\ITPCA\ITPCA2-B12-PROJECT-MIDRAND CAMPUS-EDUV4814512\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem_Q1.Properties.Resources.resources
+C:\Users\katle\OneDrive\Desktop\ITPCA\ITPCA2-B12-PROJECT-MIDRAND CAMPUS-EDUV4814512\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem-Q1.csproj.GenerateResource.cache
+C:\Users\katle\OneDrive\Desktop\ITPCA\ITPCA2-B12-PROJECT-MIDRAND CAMPUS-EDUV4814512\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem-Q1.csproj.CoreCompileInputs.cache
+C:\Users\katle\OneDrive\Desktop\ITPCA\ITPCA2-B12-PROJECT-MIDRAND CAMPUS-EDUV4814512\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem-Q1.exe
+C:\Users\katle\OneDrive\Desktop\ITPCA\ITPCA2-B12-PROJECT-MIDRAND CAMPUS-EDUV4814512\ManagementSystem-Q1\ManagementSystem-Q1\obj\Debug\ManagementSystem-Q1.pdb
